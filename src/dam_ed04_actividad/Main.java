@@ -12,10 +12,10 @@ public class Main {
         CCuenta cuenta1;
         double saldoActual;
         
-        operativaCuenta();
+        operativaCuenta(null);
     }
 
-    public static void operativaCuenta() {
+    public static void operativaCuenta(Float cantidad) {
         
         CCuenta cuenta1;
         double saldoActual;
