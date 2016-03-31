@@ -10,6 +10,9 @@ package dam_ed04_actividad;
  * @author Marcos
  */
 public class empleado {
+    /**
+     * Comentarios en la clase empleado
+     */
     String nombre;
     String apellido;
     String dni;
