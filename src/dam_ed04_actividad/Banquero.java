@@ -10,6 +10,9 @@ package dam_ed04_actividad;
  * @author Marcos
  */
 public class Banquero {
+    /**
+     * Esta es la clase banquero creada por mí
+     */
     String nombre;
     String apellido;
     int codBanquero;

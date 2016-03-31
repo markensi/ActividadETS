@@ -8,7 +8,9 @@ package dam_ed04_actividad;
 
 public class CCuenta {
 
-
+/**
+ * Esta es la clase CCcuenta donde estan las diferentes variables que usaremos
+ */
     private String nombre;
     private String cuenta;
     private double saldo;
